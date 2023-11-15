@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 It could be quite hard for people like me to actually get into the marvelous world of information technology , and i'm trying.
-
 By the way , I would enjoy farming in a field.
