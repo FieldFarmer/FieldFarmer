@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FieldFarmer, an undergraduate student from Fudan University.
+- 👋 Hi, I’m FieldFarmer, a postgraduate student from Fudan University.
 - 👀 I’m interested in Embodied Intelligence, Computer Vision, Multimodal LLM...
 
 By the way , I would enjoy farming in a field.
